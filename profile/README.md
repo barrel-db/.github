@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="/assets/logo-full.svg" alt="Barrel DB" width="300">
+  <img src="/assets/logo-symbol-coral.svg" alt="Barrel DB" width="80">
 </p>
+
+<h1 align="center">Barrel DB</h1>
 
 <p align="center">
   AI-native databases built in Europe. Open source, embeddable, production-ready.
