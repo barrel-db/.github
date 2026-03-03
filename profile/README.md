@@ -1,6 +1,10 @@
-# Barrel DB
+<p align="center">
+  <img src="/assets/logo-full.svg" alt="Barrel DB" width="300">
+</p>
 
-AI-native databases built in Europe. Open source, embeddable, production-ready.
+<p align="center">
+  AI-native databases built in Europe. Open source, embeddable, production-ready.
+</p>
 
 ## Our Projects
 
