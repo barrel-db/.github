@@ -15,6 +15,7 @@
 | [barrel_vectordb](https://github.com/barrel-db/barrel_vectordb) | High-performance vector database with HNSW, FAISS, DiskANN, and BM25 backends |
 | [barrel_docdb](https://github.com/barrel-db/barrel_docdb) | Document database with MVCC, real-time subscriptions, and P2P replication |
 | [barrel_embed](https://github.com/barrel-db/barrel_embed) | Embedding library for Erlang/Elixir applications |
+| [barrel_faiss](https://github.com/barrel-db/barrel_faiss) | Erlang NIF bindings for FAISS (Facebook AI Similarity Search) |
 
 ## Why Barrel?
 
@@ -24,7 +25,7 @@
 
 ## About
 
-Barrel DB is built by [Enki Multimedia](https://enki-multimedia.eu), a European company.
+Barrel DB is built by [Enki Bridge](https://enki-bridge.eu), a European company.
 
 - No US Cloud Act
 - GDPR compliant by design
@@ -33,7 +34,8 @@ Barrel DB is built by [Enki Multimedia](https://enki-multimedia.eu), a European 
 
 - Website: [barrel-db.eu](https://barrel-db.eu)
 - Documentation: [docs.barrel-db.eu](https://docs.barrel-db.eu)
-- Email: [contact@barrel-db.eu](mailto:contact@barrel-db.eu)
+- Matrix: [#barrel-db:matrix.org](https://matrix.to/#/#barrel-db:matrix.org)
+- Email: [hello@barrel-db.eu](mailto:hello@barrel-db.eu)
 
 ## License
 
